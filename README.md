@@ -2,6 +2,9 @@
 
 Here are some things I learned building a simple arcade [based on retropie](https://retropie.org.uk)
 
+![](street-fighter.jpg)
+
+
 ## Resources
 - The retropie setup is documented well in their wiki https://github.com/retropie/RetroPie-Setup/wiki
 - Write retropie image to your SD card with https://etcher.io/
